@@ -1,13 +1,10 @@
-import Card from './Card.jsx'
-
-function App(){
-  return(
+import ColorPicker from "./ColorPicker/ColorPicker.jsx";
+function App() {
+  return (
     <>
-    <Card/>
-    <Card/>
+      <ColorPicker/>
     </>
   );
-
 }
 
-export default App
+export default App;
