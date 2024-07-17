@@ -1,4 +1,4 @@
-.color-picker-container{
+.colorPickerContainer{
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -7,7 +7,7 @@ h1{
 font-size: 2em;  
 margin: 50px;
 }
-.color-display{
+.colorDisplay{
   width: 300px;
   height: 300px;
   align-items: center;
@@ -19,7 +19,7 @@ margin: 50px;
   transition: 0.25s ease;
 
 }
-.color-display p{
+.colorDisplay p{
   font-size: 2rem;
   text-align: center;
   color: rgb(52, 49, 49);
